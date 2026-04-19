@@ -9,8 +9,6 @@ main
 data/*.bin
 temp/*.bin
 
-temp/
-
 .vscode/
 
 .DS_Store
