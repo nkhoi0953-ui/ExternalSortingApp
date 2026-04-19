@@ -15,7 +15,7 @@
 * Hệ điều hành: Windows/Linux/macOS.
 
 ### Biên dịch
-Sử dụng Terminal trong VS Code và chạy lệnh sau:
+Sử dụng Terminal trong VS Code và 2 chạy lệnh sau:
 
 **g++ src/*.cpp -Iinclude -o main.exe**
 
