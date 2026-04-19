@@ -6,8 +6,12 @@ main
 *.gch
 
 *.bin
-data/*.bin
-temp/*.bin
+
+data/*
+!data/.gitkeep
+
+temp/*
+!temp/.gitkeep
 
 .vscode/
 
