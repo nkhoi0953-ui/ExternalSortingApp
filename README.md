@@ -17,9 +17,9 @@
 ### Biên dịch
 Sử dụng Terminal trong VS Code và chạy lệnh sau:
 
-g++ -std=c++17 src/*.cpp -Iinclude -o main.exe
+**g++ src/*.cpp -Iinclude -o main.exe**
 
-./main.exe
+**./main.exe**
 
 ## 📖 Hướng dẫn sử dụng
 * **Tạo dữ liệu:** Chọn chức năng tạo file ngẫu nhiên để tạo tập tin input.bin
