@@ -1,0 +1,17 @@
+*.exe
+*.o
+*.obj
+*.out
+main
+*.gch
+
+*.bin
+data/*.bin
+temp/*.bin
+
+temp/
+
+.vscode/
+
+.DS_Store
+Thumbs.db
