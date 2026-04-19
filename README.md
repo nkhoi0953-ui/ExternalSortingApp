@@ -21,9 +21,9 @@ g++ -std=c++17 src/*.cpp -Iinclude -o main.exe
 
 ./main.exe
 
-📖 Hướng dẫn sử dụng
-Tạo dữ liệu: Chọn chức năng tạo file ngẫu nhiên để tạo tập tin input.bin
-Cấu hình tham số:
+## 📖 Hướng dẫn sử dụng
+* **Tạo dữ liệu:** Chọn chức năng tạo file ngẫu nhiên để tạo tập tin input.bin
+* **Cấu hình tham số:**
     Số lượng phần tử ($N$): Tổng số lượng số thực cần sắp xếp.
     Dung lượng đoạn ($runSize$): Số lượng phần tử được sắp xếp trong RAM trước khi ghi xuống file tạm.
-Thực hiện sắp xếp: Chương trình sẽ thực hiện chia đoạn, sắp xếp nội bộ và thực hiện trộn để tạo ra file output.bin hoàn chỉnh.
+* **Thực hiện sắp xếp:** Chương trình sẽ thực hiện chia đoạn, sắp xếp nội bộ và thực hiện trộn để tạo ra file output.bin hoàn chỉnh.
